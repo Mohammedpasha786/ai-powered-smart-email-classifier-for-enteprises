@@ -1,9 +1,5 @@
 # AI-Powered-Smart-Email-Classifier
 AI Powered Smart Email Classifier for Enterprises
- 
-  live link frontend :- https://ai-powered-smart-email-classifier-h57j.onrender.com/
-  
-  Live Link  Backend :- https://enterprise-ai-smart-email-classifier.onrender.com
 
 ## Milestone 1: Data Collection & Preprocessing
 
